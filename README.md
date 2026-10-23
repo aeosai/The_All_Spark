@@ -47,6 +47,9 @@ Begin Execution: The studio will automatically initialize the local inference pi
 
 100% Air-Gapped: All data, scripts, and weights in this archive execute completely offline within your browser tab.
 
+
+If confused just ask claude, or gemini, or chat gpt or qwen how to utalise.
+
 Zero Telemetry: No data from this package is ever transmitted to external servers or third-party cloud APIs.
 
 Zero Dependencies: Requires no npm, Python environments, or external database servers—just your browser and this package.
